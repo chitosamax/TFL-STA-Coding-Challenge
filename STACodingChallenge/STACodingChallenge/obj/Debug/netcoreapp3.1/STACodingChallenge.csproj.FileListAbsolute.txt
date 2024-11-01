@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\STACodingChallenge\STACodingChallenge\obj\Debug\netcoreapp3.1\STACodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\STACodingChallenge\STACodingChallenge\obj\Debug\netcoreapp3.1\STACodingChallenge.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\STACodingChallenge\STACodingChallenge\obj\Debug\netcoreapp3.1\STACodingChallenge.AssemblyInfo.cs
+C:\Users\HP\source\repos\STACodingChallenge\STACodingChallenge\obj\Debug\netcoreapp3.1\STACodingChallenge.csproj.CoreCompileInputs.cache
